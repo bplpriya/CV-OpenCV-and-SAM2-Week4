@@ -10,6 +10,7 @@ This project focuses on identifying and extracting exact boundaries of animals f
 - **Modern AI Benchmark**: Implementation of SAM2 for high-precision boundary extraction.
 - **Accuracy Metrics**: Quantitative comparison using **Intersection over Union (IoU)**.
 - **Visual Comparison**: Side-by-side visualization of original thermal data, OpenCV masks, and SAM2 results.
+- **Exact Boundary Outlining**: Extraction of geometric contours from binary masks to visualize the precise **edge** of the subject.
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
